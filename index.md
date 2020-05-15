@@ -17,6 +17,7 @@ use-site-title: true
 |June 2009 - June 2012    |M.Sc. in Plant Biology     |Oklahoma State University     |Stillwater, OK       |
 |Jan 2005 - May 2009      |B.Sc. in Microbiology      |Oklahoma State University     |Stillwater, OK       |
 
+
 ## RESEARCH EXPERIENCE
 ---------
 **Post-doctoral fellow.** October 2017 - current. *University of Michigan, Human Genetics / Internal Medicine, Ann Arbor MI*
