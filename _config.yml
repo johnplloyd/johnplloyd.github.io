@@ -13,9 +13,11 @@ author: John P. Lloyd
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Links:
+    - GitHub: "https://github.com/johnplloyd"
+    - G.Scholar: "https://scholar.google.com/citations?user=ErT47b4AAAAJ&hl=en"
+    - LinkedIn: "https://www.linkedin.com/in/johnpaullloyd/"
+    - Twitter: "https://twitter.com/johnplloyd"
 
 # --- Logo --- #
 
