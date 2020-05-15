@@ -1,7 +1,7 @@
 ---
 layout: page
 title: John P. Lloyd
-subtitle: Post-doctoral researcher in Data Science and Precision Oncology.
+subtitle: Data scientist extraordinaire | Computational genomics | Machine learning | Predictive modeling | Stats | R | Python
 use-site-title: true
 ---
 
