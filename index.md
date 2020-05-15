@@ -5,7 +5,7 @@ subtitle: Post-doctoral researcher in Data Science and Precision Oncology.
 use-site-title: true
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
+[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
 *Computational biologist using modern data science and evolutionary principles to address pressing challenges in cancer biology. Research interests include tumor evolution, drug resistance, interpretable machine learning, single-cell genomics, and data integration.*
@@ -20,13 +20,13 @@ use-site-title: true
 ## RESEARCH EXPERIENCE
 ---------
 **Post-doctoral fellow.** October 2017 - current. *University of Michigan, Human Genetics / Internal Medicine, Ann Arbor MI*
->Focus: Precision oncology: pan-cancer prediction models of tumor drug response. Tumor evolution: tumor re-programming in response to drug treatments at the single-cell level. Advised by [Jun Z. Li](https://www.junzli.com/) and [Sofia Merajver](https://merajver.lab.medicine.umich.edu/).
+> Focus: Precision oncology: pan-cancer prediction models of tumor drug response. Tumor evolution: tumor re-programming in response to drug treatments at the single-cell level. Advised by [Jun Z. Li](https://www.junzli.com/) and [Sofia Merajver](https://merajver.lab.medicine.umich.edu/).
 
 **Ph.D. Student.** July 2012 - October 2017. *Michigan State University, East Lansing MI*
->Dissertation: Defining the Characteristics and Roles of Functional Genomic Sequences Using Computational Approaches. Advised by [Shin-Han Shiu](http://shiulab.plantbiology.msu.edu/index.php?title=Shin-Han_Shiu).
+> Dissertation: Defining the Characteristics and Roles of Functional Genomic Sequences Using Computational Approaches. Advised by [Shin-Han Shiu](http://shiulab.plantbiology.msu.edu/index.php?title=Shin-Han_Shiu).
 
 **Master's Student.** June 2009 - June 2012. *Oklahoma State University, Stillwater OK*
->Thesis: Comprehensive Dataset of Genes with Loss-of-function Mutant Phenotypes in Arabidopsis Thaliana. Advised by [David Meinke](https://plantbio.okstate.edu/faculty/current-grants/135-bios/394-dr-david-meinke).
+> Thesis: Comprehensive Dataset of Genes with Loss-of-function Mutant Phenotypes in Arabidopsis Thaliana. Advised by [David Meinke](https://plantbio.okstate.edu/faculty/current-grants/135-bios/394-dr-david-meinke).
 
 ## TEACHING
 ---------
