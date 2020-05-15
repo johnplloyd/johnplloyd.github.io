@@ -8,7 +8,7 @@ use-site-title: true
 [EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-*Computational biologist using modern data science and evolutionary principles to address pressing challenges in cancer biology. Research interests include tumor evolution, drug resistance, interpretable machine learning, single-cell genomics, and data integration.*
+*Computational biologist using modern data science and evolutionary principles to address pressing challenges in cancer biology. Research interests include tumor evolution, drug resistance, single-cell genomics, interpretable machine learning, and data integration.*
 
 ## EDUCATION
 ---------
