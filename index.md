@@ -1,6 +1,6 @@
 ---
 layout: page
-title: John P. Lloyd
+title: John P. Lloyd, Ph.D.
 subtitle: Data scientist extraordinaire | Computational genomics | Machine learning | Predictive modeling | Stats | R | Python
 use-site-title: true
 ---
