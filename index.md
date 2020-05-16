@@ -7,8 +7,9 @@ use-site-title: true
 
 [EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
+*Computational biologist using data science and evolutionary principles to address pressing challenges in cancer biology. Research interests include tumor evolution, drug resistance, single-cell genomics, interpretable machine learning, and data integration.*
 
-*Computational biologist using modern data science and evolutionary principles to address pressing challenges in cancer biology. Research interests include tumor evolution, drug resistance, single-cell genomics, interpretable machine learning, and data integration.*
+&nbsp;
 
 ## EDUCATION
 ---------
@@ -17,6 +18,8 @@ use-site-title: true
 **M.Sc. in Botany** *2009 - 2012* Oklahoma State University, Stillwater, OK
 
 **B.Sc. in Microbiolgy** *2005 - 2009* Oklahoma State University, Stillwater, OK
+
+&nbsp;
 
 ## RESEARCH EXPERIENCE
 ---------
