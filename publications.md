@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lloyd - Publications
+title: Publications
 ---
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=ErT47b4AAAAJ&hl=en). Please feel free to contact me for access to pdfs or preprints. 
