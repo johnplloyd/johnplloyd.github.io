@@ -12,9 +12,10 @@ author: John P. Lloyd
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  R PACKAGES: "R_packages"
   PUBLICATIONS: "publications"
-  About Me: "aboutme"
-  Links:
+  ABOUT ME: "aboutme"
+  LINKS:
     - GitHub: "https://github.com/johnplloyd"
     - Scholar: "https://scholar.google.com/citations?user=ErT47b4AAAAJ&hl=en"
     - LinkedIn: "https://www.linkedin.com/in/johnpaullloyd/"
