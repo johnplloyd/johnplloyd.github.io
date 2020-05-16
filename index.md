@@ -20,13 +20,13 @@ use-site-title: true
 
 ## RESEARCH EXPERIENCE
 ---------
-**Post-doctoral fellow.** October 2017 - current. *University of Michigan, Human Genetics / Internal Medicine, Ann Arbor MI*
+**Post-doctoral fellow.** *2017 - Current*  University of Michigan, Human Genetics / Internal Medicine, Ann Arbor MI
 > Focus: Precision oncology: pan-cancer prediction models of tumor drug response. Tumor evolution: tumor re-programming in response to drug treatments at the single-cell level. Advised by [Jun Z. Li](https://www.junzli.com/) and [Sofia Merajver](https://merajver.lab.medicine.umich.edu/).
 
-**Ph.D. Student.** July 2012 - October 2017. *Michigan State University, East Lansing MI*
+**Ph.D. Student.** *2012 - 2017*  Michigan State University, East Lansing MI
 > Dissertation: Defining the Characteristics and Roles of Functional Genomic Sequences Using Computational Approaches. Advised by [Shin-Han Shiu](http://shiulab.plantbiology.msu.edu/index.php?title=Shin-Han_Shiu).
 
-**Master's Student.** June 2009 - June 2012. *Oklahoma State University, Stillwater OK*
+**Master's Student.** *2009 - 2012*  Oklahoma State University, Stillwater OK
 > Thesis: Comprehensive Dataset of Genes with Loss-of-function Mutant Phenotypes in Arabidopsis Thaliana. Advised by [David Meinke](https://plantbio.okstate.edu/faculty/current-grants/135-bios/394-dr-david-meinke).
 
 ## TEACHING
@@ -46,11 +46,11 @@ use-site-title: true
 
 ## HONORS AND AWARDS
 ---------
-* 2020  MICHR Postdoctoral Translational Scholar Program Fellow, UMich
-* 2017  Bessey Award for Outstanding Graduate Student Research, MSU
-* 2017  College of Nat. Sci. Dissertation Completion Fellowship, MSU
-* 2015  College of Nat. Sci. Dissertation Continuation Fellowship, MSU
-* 2013  First place poster: Cyberinfrastructure Days Conference, MSU
-* 2012  Mericle Memorial Scholarship, MSU
-* 2012  Summer Early Start Fellowship, MSU
-* 2011  Distinguished Graduate Fellowship, OK State
+* **2020**  MICHR Postdoctoral Translational Scholar Program Fellow, UMich
+* **2017**  Bessey Award for Outstanding Graduate Student Research, MSU
+* **2017**  College of Nat. Sci. Dissertation Completion Fellowship, MSU
+* **2015**  College of Nat. Sci. Dissertation Continuation Fellowship, MSU
+* **2013**  First place poster: Cyberinfrastructure Days Conference, MSU
+* **2012**  Mericle Memorial Scholarship, MSU
+* **2012**  Summer Early Start Fellowship, MSU
+* **2011**  Distinguished Graduate Fellowship, OK State
