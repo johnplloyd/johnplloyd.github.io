@@ -39,14 +39,14 @@ use-site-title: true
 
 ## OUTREACH AND SERVICE
 ---------
-* **Peer-reviewer.** Journals: BMC Genomics, Scientific Reports, and PLoS ONE.
+* **Peer-reviewer.** Journals: *BMC Genomics*, *Scientific Reports*, and *PLoS ONE*.
 * **MI DNA Day.** Bloomfield Hills High School, Bloomfield Hills MI. *April 2019*
 * **REU Student Mentor.** Rosalie Sowers. *Summer 2016*
 * **REU Student Mentor.** Matthew Simenc. *Summer 2014*
 
 ## HONORS AND AWARDS
 ---------
-* 2020  Fellow: MICHR Postdoctoral Translational Scholar Program, UMich
+* 2020  MICHR Postdoctoral Translational Scholar Program Fellow, UMich
 * 2017  Bessey Award for Outstanding Graduate Student Research, MSU
 * 2017  College of Nat. Sci. Dissertation Completion Fellowship, MSU
 * 2015  College of Nat. Sci. Dissertation Continuation Fellowship, MSU
