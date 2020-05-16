@@ -13,7 +13,9 @@ use-site-title: true
 ## EDUCATION
 ---------
 *2012 - 2017* **Ph.D. in Plant Biology** Michigan State University, East Lansing, MI
+
 *2009 - 2012* **M.Sc. in Botany** Oklahoma State University, Stillwater, OK
+
 *2005 - 2009* **B.Sc. in Microbiolgy** Oklahoma State University, Stillwater, OK
 
 ## RESEARCH EXPERIENCE
