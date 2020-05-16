@@ -21,7 +21,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2019
 
-<img src="/assets/img/journal-article.png" height="20px"> **Lloyd JP**, Bowman M, Azodi C, Sowers R, Moghe G, Childs K, Shiu SH. *Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae.* [*@ Scientific Reports.*](https://www.nature.com/articles/s41598-019-47797-y).
+<img src="/assets/img/journal-article.png" height="20px"> **Lloyd JP**, Bowman M, Azodi C, Sowers R, Moghe G, Childs K, Shiu SH. *Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae.* [*@ Scientific Reports*](https://www.nature.com/articles/s41598-019-47797-y).
 
 <img src="/assets/img/journal-article.png" height="20px"> Moore B, Wang P, Fan P, Leong B, Schenck C, **Lloyd JP**, Lehti-Shiu M, Last R, Pichersky E, Shiu SH. *Robust predictions of specialized metabolism genes through machine learning.* [*@ PNAS*](https://www.pnas.org/content/116/6/2344.short).
 
