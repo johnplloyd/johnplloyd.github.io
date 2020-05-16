@@ -48,7 +48,7 @@ IN PROGRESS
 &nbsp;
 ### Installation
 
-Download and install Rtools: https://cran.r-project.org/bin/windows/Rtools/ ***(required to install packages from GitHub)***
+Download and install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) ***(required to install packages from GitHub)***
 
 ```
 # install.packages("devtools")
