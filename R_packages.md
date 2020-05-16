@@ -10,7 +10,8 @@ To help reduce future instances of re-writing my code base, I have generated a s
 My mantra here was flexibility and compartmentalization, producing functions that could be called up simply and quickly to be applied to a wide variety of tasks.
 &nbsp;
 &nbsp;
-### lloydUtils: Lloyd's general utilities
+## lloydUtils
+### Lloyd's general utilities
 ---------
 
 Set of general, custom R functions John often uses while coding in R.
@@ -26,7 +27,8 @@ transparent_color
 write_df
 ```
 &nbsp;
-### lloydPerf: Lloyd's performance calculators
+## lloydPerf
+### Lloyd's performance calculators
 ---------
 
 Set of functions for calculating performance metrics in R.
@@ -42,7 +44,8 @@ calc_RSS
 performance.regression
 ```
 &nbsp;
-### lloydML: Lloyd's machine learning utilities
+## lloydML
+### Lloyd's machine learning utilities
 ---------
 
 Set of functions for building and applying statistical learning models under cross-validation or with hold-out validation sets in R.
@@ -52,7 +55,7 @@ Functions included:
 IN PROGRESS
 ```
 &nbsp;
-### Installation
+## Installation
 ---------
 
 Download and install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) ***(required to install packages from GitHub)***
