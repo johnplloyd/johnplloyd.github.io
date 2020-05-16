@@ -7,7 +7,7 @@ Over the years, I have written, and re-written, and forgotten about, and re-writ
 
 To help reduce future instances of re-writing my code base, I have generated a set of R packages containing my most commonly used and useful functions.
 
-My mantras here were flexibility and compartmentalization, producing functions that could be called up simply and quickly to be applied to a wide variety of tasks.
+My mantras here were flexibility and compartmentalization, with thte goal of producing functions that could be called up simply and quickly to be applied to a wide variety of tasks.
 &nbsp;
 &nbsp;
 ## lloydUtils
