@@ -7,9 +7,8 @@ Over my 7+ years of data analysis, I have written, and re-written, and forgotten
 
 My mantra here was producing flexible and compartmentalized functions that could be called up simply and quickly to be applied to a variety of tasks.
 
-### lloydUtils
+### lloydUtils: Lloyd's general utilities
 
-**Lloyd's general utilities**
 Set of general, custom R functions John often uses while coding in R.
 
 Functions included:
@@ -23,9 +22,8 @@ transparent_color
 write_df
 ```
 
-### lloydPerf
+### lloydPerf: Lloyd's performance calculators
 
-**Lloyd's performance calculators**
 Set of functions for calculating performance metrics in R.
 
 Functions included:
@@ -39,9 +37,8 @@ calc_RSS
 performance.regression
 ```
 
-### lloydML
+### lloydML: Lloyd's machine learning utilities
 
-**Lloyd's machine learning utilities**
 Set of functions for building and applying statistical learning models under cross-validation or with hold-out validation sets in R.
 
 Functions included:
