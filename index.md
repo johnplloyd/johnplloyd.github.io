@@ -12,11 +12,9 @@ use-site-title: true
 
 ## EDUCATION
 ---------
-
-|July 2012 - Oct 2017     |Ph.D. in Plant Biology     |Michigan State University     |East Lansing, MI     |
-|June 2009 - June 2012    |M.Sc. in Plant Biology     |Oklahoma State University     |Stillwater, OK       |
-|Jan 2005 - May 2009      |B.Sc. in Microbiology      |Oklahoma State University     |Stillwater, OK       |
-
+*2012 - 2017* **Ph.D. in Plant Biology** Michigan State University, East Lansing, MI
+*2009 - 2012* **M.Sc. in Botany** Oklahoma State University, Stillwater, OK
+*2005 - 2009* **B.Sc. in Microbiolgy** Oklahoma State University, Stillwater, OK
 
 ## RESEARCH EXPERIENCE
 ---------
