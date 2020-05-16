@@ -1,28 +1,15 @@
-
 ---
 layout: page
 title: R packages
 ---
 
-Over my 7+ years of data analysis, I have written, and re-written, and re-written many basic and not-so-basic functions that I use during day-to-day coding and in machine learning and model building. To help reduce future instances of re-writing my code, I have generated a set of R packages containing my most commonly used and useful functions.
+Over my 7+ years of data analysis, I have written, and re-written, and forgotten about, and re-written many basic and not-so-basic functions that I use during day-to-day coding and in machine learning and model building. To help reduce future instances of re-writing my code, I have generated a set of R packages containing my most commonly used and useful functions.
 
-### Installation
-
-Download and install Rtools: https://cran.r-project.org/bin/windows/Rtools/ *(Rtools required to install packages from GitHub)*
-
-```
-# install.packages("devtools")
-library(devtools)
-
-install_github("johnplloyd/R_packages/lloydUtils")
-library(lloydUtils)
-
-install_github("johnplloyd/R_packages/lloydPerf")
-library(lloydPerf)
-```
+My mantra here was producing flexible and compartmentalized functions that could be called up simply and quickly to be applied to a variety of tasks.
 
 ### lloydUtils
 
+**Lloyd's general utilities**
 Set of general, custom R functions John often uses while coding in R.
 
 Functions included:
@@ -38,6 +25,7 @@ write_df
 
 ### lloydPerf
 
+**Lloyd's performance calculators**
 Set of functions for calculating performance metrics in R.
 
 Functions included:
@@ -49,4 +37,32 @@ calc_median_error
 calc_MSE
 calc_RSS
 performance.regression
+```
+
+### lloydML
+
+**Lloyd's machine learning utilities**
+Set of functions for building and applying statistical learning models under cross-validation or with hold-out validation sets in R.
+
+Functions included:
+```
+IN PROGRESS
+```
+
+### Installation
+
+Download and install Rtools: https://cran.r-project.org/bin/windows/Rtools/ *(Rtools required to install packages from GitHub)*
+
+```
+# install.packages("devtools")
+library(devtools)
+
+install_github("johnplloyd/R_packages/lloydUtils")
+library(lloydUtils)
+
+install_github("johnplloyd/R_packages/lloydPerf")
+library(lloydPerf)
+
+install_github("johnplloyd/R_packages/lloydML")
+library(lloydML)
 ```
