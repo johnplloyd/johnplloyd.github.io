@@ -1,7 +1,7 @@
 ---
 layout: page
 title: John P. Lloyd, Ph.D.
-subtitle: Data scientist extraordinaire | Computational genomics | Machine learning | Predictive modeling | Stats | R | Python
+subtitle: Data scientist | Computational genomics | Machine learning | Predictive modeling | Stats | R | Python
 use-site-title: true
 ---
 
@@ -12,11 +12,11 @@ use-site-title: true
 
 ## EDUCATION
 ---------
-*2012 - 2017* **Ph.D. in Plant Biology** Michigan State University, East Lansing, MI
+**Ph.D. in Plant Biology** *2012 - 2017* Michigan State University, East Lansing, MI
 
-*2009 - 2012* **M.Sc. in Botany** Oklahoma State University, Stillwater, OK
+**M.Sc. in Botany** *2009 - 2012* Oklahoma State University, Stillwater, OK
 
-*2005 - 2009* **B.Sc. in Microbiolgy** Oklahoma State University, Stillwater, OK
+**B.Sc. in Microbiolgy** *2005 - 2009* Oklahoma State University, Stillwater, OK
 
 ## RESEARCH EXPERIENCE
 ---------
