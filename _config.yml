@@ -12,6 +12,7 @@ author: John P. Lloyd
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  PUBLICATIONS: "publications"
   About Me: "aboutme"
   Links:
     - GitHub: "https://github.com/johnplloyd"
