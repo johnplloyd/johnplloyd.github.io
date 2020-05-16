@@ -6,7 +6,7 @@ title: R packages
 Over my 7+ years of data analysis, I have written, and re-written, and forgotten about, and re-written many basic and not-so-basic functions that I use during day-to-day coding and in machine learning and model building. To help reduce future instances of re-writing my code base, I have generated a set of R packages containing my most commonly used and useful functions.
 
 My mantra here was producing flexible and compartmentalized functions that could be called up simply and quickly to be applied to a variety of tasks.
-
+&nbsp;
 ### lloydUtils: Lloyd's general utilities
 
 Set of general, custom R functions John often uses while coding in R.
