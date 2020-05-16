@@ -21,7 +21,7 @@ remove_outliers
 transparent_color
 write_df
 ```
-     
+&nbsp;
 ### lloydPerf: Lloyd's performance calculators
 
 Set of functions for calculating performance metrics in R.
@@ -36,7 +36,7 @@ calc_MSE
 calc_RSS
 performance.regression
 ```
-     
+&nbsp;
 ### lloydML: Lloyd's machine learning utilities
 
 Set of functions for building and applying statistical learning models under cross-validation or with hold-out validation sets in R.
@@ -45,7 +45,7 @@ Functions included:
 ```
 IN PROGRESS
 ```
-     
+&nbsp;
 ### Installation
 
 Download and install Rtools: https://cran.r-project.org/bin/windows/Rtools/ ***(required to install packages from GitHub)***
@@ -63,4 +63,4 @@ library(lloydPerf)
 install_github("johnplloyd/R_packages/lloydML")
 library(lloydML)
 ```
-     
+&nbsp;
