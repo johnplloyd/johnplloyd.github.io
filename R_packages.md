@@ -3,7 +3,7 @@ layout: page
 title: R packages
 ---
 
-Over my 7+ years of data analysis, I have written, and re-written, and forgotten about, and re-written many basic and not-so-basic functions that I use during day-to-day coding and in machine learning and model building.
+Over the years, I have written, and re-written, and forgotten about, and re-written many basic and not-so-basic functions that I use during day-to-day coding and in machine learning and model building.
 
 To help reduce future instances of re-writing my code base, I have generated a set of R packages containing my most commonly used and useful functions.
 
@@ -11,6 +11,7 @@ My mantra here was producing flexible and compartmentalized functions that could
 &nbsp;
 &nbsp;
 ### lloydUtils: Lloyd's general utilities
+---------
 
 Set of general, custom R functions John often uses while coding in R.
 
@@ -26,6 +27,7 @@ write_df
 ```
 &nbsp;
 ### lloydPerf: Lloyd's performance calculators
+---------
 
 Set of functions for calculating performance metrics in R.
 
@@ -41,6 +43,7 @@ performance.regression
 ```
 &nbsp;
 ### lloydML: Lloyd's machine learning utilities
+---------
 
 Set of functions for building and applying statistical learning models under cross-validation or with hold-out validation sets in R.
 
@@ -50,6 +53,7 @@ IN PROGRESS
 ```
 &nbsp;
 ### Installation
+---------
 
 Download and install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) ***(required to install packages from GitHub)***
 
