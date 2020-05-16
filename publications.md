@@ -36,19 +36,16 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2015
 
-<img src="../img/pubs/journal-article.png" height="20px"> **Lloyd JP**, Seddon A, Moghe G, Simenc M, Shiu SH. Characteristics of plant essential genes allow for within- and between-species prediction of lethal mutant phenotypes. [*@ Plant Cell*](http://www.plantcell.org/content/27/8/2133)
+<img src="../img/pubs/journal-article.png" height="20px"> **Lloyd JP**, Seddon A, Moghe G, Simenc M, Shiu SH. Characteristics of plant essential genes allow for within- and between-species prediction of lethal mutant phenotypes. [*@ Plant Cell*](http://www.plantcell.org/content/27/8/2133).
 
-<img src="../img/pubs/journal-article.png" height="20px"> Oellrich A, Walls R, Cannon E, Cannon S, Cooper L, Gardiner J, Gkoutos G, Harper L, He M, Hoehndorf R, Jaiswal P, Kalberer S, **Lloyd JP**, Meinke D, Menda N, Moore L, Nelson R, Pujar A, Lawrence C, Huala E. An ontology approach to comparative phenomics in plants. [*@ Plant Methods*](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-015-0053-y)
+<img src="../img/pubs/journal-article.png" height="20px"> Oellrich A, Walls R, Cannon E, Cannon S, Cooper L, Gardiner J, Gkoutos G, Harper L, He M, Hoehndorf R, Jaiswal P, Kalberer S, **Lloyd JP**, Meinke D, Menda N, Moore L, Nelson R, Pujar A, Lawrence C, Huala E. An ontology approach to comparative phenomics in plants. [*@ Plant Methods*](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-015-0053-y).
 
 ## 2012
 
-<img src="../img/pubs/journal-article.png" height="20px"> **Lloyd JP**, Meinke D. A comprehensive dataset of genes with a loss-of-function mutant phenotype in Arabidopsis. [*@ Plant Physiology*](http://www.plantphysiol.org/content/158/3/1115.full)
+<img src="../img/pubs/journal-article.png" height="20px"> **Lloyd JP**, Meinke D. A comprehensive dataset of genes with a loss-of-function mutant phenotype in Arabidopsis. [*@ Plant Physiology*](http://www.plantphysiol.org/content/158/3/1115.full).
 
 ## 2011
 
-<img src="../img/pubs/journal-article.png" height="20px"> Muralla R, **Lloyd JP**, Meinke D. Molecular foundations of reproductive lethality in *Arabidopsis thaliana*. [*@ PLOS One*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028398)
+<img src="../img/pubs/journal-article.png" height="20px"> Muralla R, **Lloyd JP**, Meinke D. Molecular foundations of reproductive lethality in *Arabidopsis thaliana*. [*@ PLOS One*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028398).
 
-<img src="../img/pubs/journal-article.png" height="20px"> Bryant N, **Lloyd JP**, Sweeney C, Myouga F, Meinke D. Identification of nuclear genes encoding chloroplast-localized proteins required for embryo development in Arabidopsis. [*@ Plant Phsiology*](http://www.plantphysiol.org/content/155/4/1678.full)
-
-
-
+<img src="../img/pubs/journal-article.png" height="20px"> Bryant N, **Lloyd JP**, Sweeney C, Myouga F, Meinke D. Identification of nuclear genes encoding chloroplast-localized proteins required for embryo development in Arabidopsis. [*@ Plant Phsiology*](http://www.plantphysiol.org/content/155/4/1678.full).
