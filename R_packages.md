@@ -48,7 +48,7 @@ performance.regression
 ### Lloyd's machine learning utilities
 ---------
 
-Set of functions for building and applying statistical learning models under cross-validation or with hold-out validation sets in R.
+Set of functions for building and applying statistical learning models under cross-validation or with hold-out validation sets in R. Key features are inclusion of multiple rounds of cross-validation or bagging and predictions for multiple Y (response) values from a single set of features.
 
 Functions included:
 ```
