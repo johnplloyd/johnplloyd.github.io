@@ -52,7 +52,16 @@ Set of functions for building and applying statistical learning models under cro
 
 Functions included:
 ```
-IN PROGRESS
+assign_CV_folds
+glmnet_feature_weights
+iterate_search_lambda
+multi_y.consolidate_performances
+multi_y.prediction_and_performance_with_validation_set.wrapper
+sort_glmnet_weights
+train_and_apply_glmnet_model
+train_and_apply_model
+train_and_apply_under_CV
+train_and_apply_with_validation_set
 ```
 &nbsp;
 ## Installation
